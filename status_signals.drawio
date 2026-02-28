@@ -1,9 +1,35 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="Page-1" id="XqA0gIuD_A5v9JTIPPfW">
-    <mxGraphModel>
+    <mxGraphModel dx="793" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EuYWW45nFVEd4yr1qh_C-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="Comparter" vertex="1">
+          <mxGeometry height="80" width="80" x="120" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EuYWW45nFVEd4yr1qh_C-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="i" vertex="1">
+          <mxGeometry height="30" width="60" x="20" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EuYWW45nFVEd4yr1qh_C-5" edge="1" parent="1" source="EuYWW45nFVEd4yr1qh_C-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.032;entryY=0.196;entryDx=0;entryDy=0;entryPerimeter=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" target="EuYWW45nFVEd4yr1qh_C-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EuYWW45nFVEd4yr1qh_C-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="MI" vertex="1">
+          <mxGeometry height="30" width="60" x="20" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EuYWW45nFVEd4yr1qh_C-7" edge="1" parent="1" source="EuYWW45nFVEd4yr1qh_C-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.804;entryDx=0;entryDy=0;entryPerimeter=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" target="EuYWW45nFVEd4yr1qh_C-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EuYWW45nFVEd4yr1qh_C-9" edge="1" parent="1" source="EuYWW45nFVEd4yr1qh_C-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="125.23809523809524" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EuYWW45nFVEd4yr1qh_C-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="&amp;lt;" vertex="1">
+          <mxGeometry height="10" width="20" x="180" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EuYWW45nFVEd4yr1qh_C-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="i &amp;lt; MI" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
